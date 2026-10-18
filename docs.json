@@ -1,0 +1,9 @@
+{
+  "name": "Bug Hunter Docs",
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["docs/index"]
+    }
+  ]
+}
