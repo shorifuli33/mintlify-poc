@@ -1,5 +1,6 @@
 {
   "name": "Bug Hunter Docs",
+  "theme": "mint",
   "navigation": [
     {
       "group": "Getting Started",
