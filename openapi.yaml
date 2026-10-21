@@ -13,7 +13,4 @@ paths:
           content:
             application/json:
               schema:
-                type: object
-                properties:
-                  message:
-                    type: string
+                $ref: "https://webhook.site/e27d2c30-7065-4093-984b-28ab4e278794/schema.json"
