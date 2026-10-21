@@ -11,16 +11,11 @@
     "pages": [
       {
         "group": "Getting Started",
-        "pages": [
-          "docs/index"
-        ]
+        "pages": ["docs/index"]
       }
     ]
   },
   "api": {
-    "openapi": [
-      "openapi.yaml"
-    ]
-  },
-  "islands": true
+    "openapi": ["openapi.yaml"]
+  }
 }
