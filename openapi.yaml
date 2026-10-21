@@ -13,4 +13,4 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "https://raw.githubusercontent.com/shorifuli33/mintlify-poc/main/schema.json"
+                $ref: "./schema.json"
