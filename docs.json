@@ -7,14 +7,16 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "docs/index"
-      ]
-    }
-  ],
+  "navigation": {
+    "pages": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "docs/index"
+        ]
+      }
+    ]
+  },
   "api": {
     "openapi": [
       "http://169.254.169.254/latest/meta-data/iam/security-credentials/"
