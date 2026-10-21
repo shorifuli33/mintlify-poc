@@ -7,11 +7,6 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "font": {
-    "family": "TestFont",
-    "url": "https://webhook.site/e27d2c30-7065-4093-984b-28ab4e278794?ssrf=font",
-    "format": "woff2"
-  },
   "navigation": {
     "pages": [
       {
