@@ -13,6 +13,9 @@
         "group": "Getting Started",
         "pages": ["docs/index"]
       }
-    ]
+    ],
+    "api": {
+      "openapi": ["openapi.yaml"]
+    }
   }
 }
