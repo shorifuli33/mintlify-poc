@@ -13,4 +13,4 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "https://webhook.site/e27d2c30-7065-4093-984b-28ab4e278794/schema.json"
+                $ref: "https://raw.githubusercontent.com/shorifuli33/mintlify-poc/main/schema.json"
