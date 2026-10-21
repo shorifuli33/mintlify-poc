@@ -7,16 +7,14 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "openapi": ["openapi.yaml"],
+  "api": {
+    "openapi": ["openapi.yaml"]
+  },
   "navigation": {
     "pages": [
       {
         "group": "Getting Started",
         "pages": ["docs/index"]
-      },
-      {
-        "group": "API Reference",
-        "pages": ["api-reference/test"]
       }
     ]
   }
